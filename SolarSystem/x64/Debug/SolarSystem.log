@@ -1,0 +1,13 @@
+﻿GLMain.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowPosition，函数 main 中引用了该符号
+GLMain.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowSize，函数 main 中引用了该符号
+GLMain.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitDisplayMode，函数 main 中引用了该符号
+GLMain.obj : error LNK2019: 无法解析的外部符号 __imp_glutMainLoop，函数 main 中引用了该符号
+GLMain.obj : error LNK2019: 无法解析的外部符号 __imp_glutSwapBuffers，函数 "void __cdecl GLRenderScence(void)" (?GLRenderScence@@YAXXZ) 中引用了该符号
+GLMain.obj : error LNK2019: 无法解析的外部符号 __imp_glutIdleFunc，函数 main 中引用了该符号
+GLMain.obj : error LNK2019: 无法解析的外部符号 __imp_glutSpecialFunc，函数 main 中引用了该符号
+GLMain.obj : error LNK2019: 无法解析的外部符号 __imp_glutReshapeFunc，函数 main 中引用了该符号
+GLMain.obj : error LNK2019: 无法解析的外部符号 __imp_glutDisplayFunc，函数 main 中引用了该符号
+GLMain.obj : error LNK2019: 无法解析的外部符号 __imp___glutInitWithExit，函数 glutInit_ATEXIT_HACK 中引用了该符号
+GLMain.obj : error LNK2019: 无法解析的外部符号 __imp___glutCreateWindowWithExit，函数 glutCreateWindow_ATEXIT_HACK 中引用了该符号
+E:\cppBookCode\SolarSystem\lib\freeglut.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+E:\cppBookCode\SolarSystem\x64\Debug\SolarSystem.exe : fatal error LNK1120: 11 个无法解析的外部命令
